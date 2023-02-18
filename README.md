@@ -38,3 +38,10 @@ $ screen -S "TITLE" -d -m COMMAND
 ```bash
 $ sudo apachectl configtest
 ```
+
+**Store git credentials locally**
+```bash
+$ git config --global credential.helper store
+```
+> **Warning**<br/>
+> The credentials are stored in a file on the disk,<br>with the disk permissions of "just user readable/writable" but in plaintext.
