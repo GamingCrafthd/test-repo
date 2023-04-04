@@ -13,14 +13,7 @@ mousePosition = (50, 50)
 position = (50, 50)
 
 def tick(screen):
-    x = position[0]
-    y = position[1]
-    xm = mousePosition[0]
-    ym = mousePosition[1]
-
-    rotation = x-xm/y-ym
-
-    print(f'Tick {rotation}')
+    print(f'Tick')
 
 def draw(screen):
     print('Draw')
