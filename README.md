@@ -1,10 +1,6 @@
 # GitHub Markdown Tips
 
-> **Note**<br/>
-> This is a note!
-
-> **Warning**<br/>
-> This is a warning!
+[Notes and stuff](https://github.com/orgs/community/discussions/16925)
 
 <details>
 <summary>This is a thing</summary>
