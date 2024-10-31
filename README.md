@@ -1,4 +1,4 @@
-# GitHub Markdown Tips
+# [GitHub Markdown](https://github.github.com/gfm) Tips
 
 [Notes and stuff](https://github.com/orgs/community/discussions/16925)
 
